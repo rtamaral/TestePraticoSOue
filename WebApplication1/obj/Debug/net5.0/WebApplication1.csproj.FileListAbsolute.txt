@@ -1,0 +1,8 @@
+C:\Projeto Pessoal\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Projeto Pessoal\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto Pessoal\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Projeto Pessoal\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfo.cs
+C:\Projeto Pessoal\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Projeto Pessoal\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Projeto Pessoal\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Projeto Pessoal\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cs
